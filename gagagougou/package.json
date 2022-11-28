@@ -19,9 +19,7 @@
     "build": "strapi build",
     "strapi": "strapi"
   },
-  "devDependencies": {
-
-  },
+  "devDependencies": {},
   "author": {
     "name": "A Strapi developer"
   },
