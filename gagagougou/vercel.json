@@ -1,3 +1,3 @@
 {
-  "buildCommand": "strapi build"
+  "buildCommand": "yarn build"
 }
